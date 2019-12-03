@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    text-transform: uppercase;
+  
+}
+
+h1 {
+   width: 1050px;
+    height: 243px;
+    color: black;
+    font-family: Poppins;
+    font-size: 86px;
+    font-weight: 600;
+    line-height: 90px;
+    display: inline-block;
+}
+
+.slider {
+    margin: 50px 0 150px;
+}
+
+.slider div {
+    padding: 20px;
+}
+
+
+
+p {
+    
+    color: #303030;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 19px;
+    margin-bottom: -32px;
+    margin-top: 64px;
+}
+
+.rectangle__first{
+    position: absolute;
+    top: 35%;
+    right: 83%;
+}
+.rectangle__second {
+    position: absolute;
+    top: 8%;
+    right: 27%;
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  height: 60px;
+  width: 60px;
+  z-index: 1;
+  cursor: pointer;
+
+}
+
+.next {
+  right: 0;
+}
+
+
+
+
+
+
+
